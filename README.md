@@ -1,5 +1,5 @@
 
-# AI-Powered Health Monitoring System for Elderly Care
+# AI-Powered Health Monitoring System 
 
 ## Summary
 
